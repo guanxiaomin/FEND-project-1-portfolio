@@ -1,0 +1,38 @@
+body {
+	font-family: 'Lato', sans-serif;
+	color: #747704;
+	font-weight: 300;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.text-muted {
+	color: #bcbbbb
+}
+
+.title-bigger {
+	font-size: 60px;
+}
+
+.title-row {
+	margin-top: 20px;
+}
+
+img.udacity-logo {
+	height: 150px;
+	width: auto;
+}
+
+hr {
+	height: 3px;
+	border: none;
+	color: #bcbbbb;
+	background-color: #bcbbbb
+
+}
+
+h2 {
+	font-weight: 900;
+}
